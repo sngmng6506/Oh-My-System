@@ -4,7 +4,7 @@
 
 ## 시작하기
 
-1. [개발 작업 원칙](DEVELOPMENT_WORKFLOW.md)을 읽는다.
+1. [개발 작업 원칙](DEVELOPMENT_PRINCIPLES.md)을 읽는다.
 2. 작업할 프로젝트의 README, 코드, 테스트를 확인한다.
 3. 프로젝트에 적용되는 원칙만 가져와 사용하고, 프로젝트 고유의 제약은 해당 저장소에 기록한다.
 
@@ -12,7 +12,7 @@
 
 | 문서 | 내용 |
 | --- | --- |
-| [DEVELOPMENT_WORKFLOW.md](DEVELOPMENT_WORKFLOW.md) | 구현, 검증, 기록에 관한 공통 원칙 |
+| [DEVELOPMENT_PRINCIPLES.md](DEVELOPMENT_PRINCIPLES.md) | 구현, 검증, 기록에 관한 공통 원칙 |
 | [DESIGN_PRINCIPLES.md](DESIGN_PRINCIPLES.md) | 상태, 문구, 화면 구성에 관한 공통 원칙 |
 
 API 설계 원칙과 도구 목록은 실제 사례를 정리하면서 하나씩 추가한다. 새 문서를 만들면 이 표에 연결한다.

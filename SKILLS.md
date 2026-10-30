@@ -17,18 +17,29 @@
 
 ## 설치 명령
 
-아래 명령은 프로젝트 디렉터리에서 실행하는 Codex CLI·Claude Code용이다. `npx skills` 명령에는 Node.js 22.20 이상이 필요하다. 설치 전에는 공식 저장소의 최신 안내를 확인한다.
+프로젝트 디렉터리에서 실행한다. `npx skills`는 Node.js 22.20 이상이 필요하다. 설치 전 공식 저장소의 최신 안내를 확인한다.
+
+아래 표의 스킬은 공통 명령을 사용한다. `<에이전트>`는 Codex CLI에서 `codex`, Claude Code에서 `claude-code`다.
+
+```bash
+npx skills add <저장소> --skill <스킬명> -a <에이전트>
+```
+
+| Skill | 저장소 | 스킬명 |
+| --- | --- | --- |
+| Web Design Guidelines | `vercel-labs/agent-skills` | `web-design-guidelines` |
+| Security Review | `github/awesome-copilot` | `security-review` |
+| Webapp Testing | `anthropics/skills` | `webapp-testing` |
+| Frontend Design | `anthropics/skills` | `frontend-design` |
+| Systematic Debugging | `obra/superpowers` | `systematic-debugging` |
+| Diagnosing Bugs | `mattpocock/skills` | `diagnosing-bugs` |
+| Caveman (스킬만) | `JuliusBrussee/caveman` | `caveman` |
+
+별도 설치 명령은 다음과 같다.
 
 | Skill | Codex CLI | Claude Code |
 | --- | --- | --- |
-| Web Design Guidelines | `npx skills add vercel-labs/agent-skills --skill web-design-guidelines -a codex` | `npx skills add vercel-labs/agent-skills --skill web-design-guidelines -a claude-code` |
-| Security Review | `npx skills add github/awesome-copilot --skill security-review -a codex` | `npx skills add github/awesome-copilot --skill security-review -a claude-code` |
-| Webapp Testing | `npx skills add anthropics/skills --skill webapp-testing -a codex` | `npx skills add anthropics/skills --skill webapp-testing -a claude-code` |
-| Frontend Design | `npx skills add anthropics/skills --skill frontend-design -a codex` | `npx skills add anthropics/skills --skill frontend-design -a claude-code` |
-| Systematic Debugging | `npx skills add obra/superpowers --skill systematic-debugging -a codex` | `npx skills add obra/superpowers --skill systematic-debugging -a claude-code` |
-| Diagnosing Bugs | `npx skills add mattpocock/skills --skill diagnosing-bugs -a codex` | `npx skills add mattpocock/skills --skill diagnosing-bugs -a claude-code` |
 | UI/UX Pro Max | `npx ui-ux-pro-max-cli init --ai codex` | `npx ui-ux-pro-max-cli init --ai claude` |
 | Graphify | `uv tool install graphifyy` → `graphify install --project --platform codex` | `uv tool install graphifyy` → `graphify install --project --platform claude` |
-| Caveman (스킬만) | `npx skills add JuliusBrussee/caveman --skill caveman -a codex` | `npx skills add JuliusBrussee/caveman --skill caveman -a claude-code` |
 
-Graphify는 Python 3.10 이상과 `uv`가 필요하다. Caveman은 위 스킬 설치 명령만 사용하며 프록시 전체 설치 명령은 사용하지 않는다.
+Graphify는 Python 3.10 이상과 `uv`가 필요하다. Caveman은 스킬만 설치하며 프록시 전체 설치 명령은 사용하지 않는다.

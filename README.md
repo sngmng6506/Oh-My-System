@@ -7,7 +7,7 @@
 
 | 문서 | 내용 |
 | --- | --- |
-| [DEVELOPMENT_PRINCIPLES.md](DEVELOPMENT_PRINCIPLES.md) | 구현, 검증, 기록에 관한 공통 원칙 |
+| [DEVELOPMENT_PRINCIPLES.md](DEVELOPMENT_PRINCIPLES.md) | 구현, 코드 품질, 검증, 기록에 관한 공통 원칙 |
 | [DESIGN_PRINCIPLES.md](DESIGN_PRINCIPLES.md) | 화면 구성과 디자인 시스템 문서화에 관한 원칙 |
 | [API_PRINCIPLES.md](API_PRINCIPLES.md) | API 계약, 오류 처리, 명세 관리에 관한 원칙 |
 | [SECURITY_PRINCIPLES.md](SECURITY_PRINCIPLES.md) | 비밀값, 입력 검증, 권한, 암호화, 개인정보, 의존성에 관한 원칙 |

@@ -15,3 +15,4 @@ MCP는 미리 설치하지 않는다.
 | **Codebase Memory MCP** | 큰 규모의 코드·문서 관계를 여러 작업에 걸쳐 반복 조회해야 하고 기본 검색으로 재구성하기 어려울 때 | 코드와 문서를 로컬 그래프로 색인해 관계를 검색하고 재사용한다. | [설치 및 사용법](https://github.com/DeusData/codebase-memory-mcp) |
 | **Repomix** | 필요한 파일만 골라서는 저장소 전체 맥락을 전달하기 어려울 때 | 저장소를 AI가 읽기 쉬운 단일 자료로 묶는다. | [설치 및 사용법](https://github.com/yamadashy/repomix) |
 | **MarkItDown** | 기본 파일 읽기 기능으로 필요한 내용을 추출하기 어려울 때 | PDF·Word·PPT·Excel 등의 내용을 Markdown으로 변환한다. | [설치 및 사용법](https://github.com/microsoft/markitdown) |
+| **Semgrep MCP** | 기존 테스트·코드 검토만으로 보안 규칙 위반을 확인하기 어려울 때 | 로컬 Semgrep 검사로 코드의 보안 패턴과 규칙 위반을 찾아 분석한다. | [설치 및 사용법](https://github.com/semgrep/semgrep/tree/develop/cli/src/semgrep/mcp) |

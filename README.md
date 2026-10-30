@@ -13,6 +13,5 @@
 | 문서 | 내용 |
 | --- | --- |
 | [DEVELOPMENT_PRINCIPLES.md](DEVELOPMENT_PRINCIPLES.md) | 구현, 검증, 기록에 관한 공통 원칙 |
-| [DESIGN_PRINCIPLES.md](DESIGN_PRINCIPLES.md) | 상태, 문구, 화면 구성에 관한 공통 원칙 |
 
-API 설계 원칙과 도구 목록은 실제 사례를 정리하면서 하나씩 추가한다. 새 문서를 만들면 이 표에 연결한다.
+디자인 원칙, API 설계 원칙, 도구 목록은 실제 사례를 정리하면서 하나씩 추가한다. 새 문서를 만들면 이 표에 연결한다.

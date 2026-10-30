@@ -16,3 +16,4 @@ MCP는 미리 설치하지 않는다.
 | **Repomix** | 필요한 파일만 골라서는 저장소 전체 맥락을 전달하기 어려울 때 | 저장소를 AI가 읽기 쉬운 단일 자료로 묶는다. | [설치 및 사용법](https://github.com/yamadashy/repomix) |
 | **MarkItDown** | 기본 파일 읽기 기능으로 필요한 내용을 추출하기 어려울 때 | PDF·Word·PPT·Excel 등의 내용을 Markdown으로 변환한다. | [설치 및 사용법](https://github.com/microsoft/markitdown) |
 | **Semgrep MCP** | 기존 테스트·코드 검토만으로 보안 규칙 위반을 확인하기 어려울 때 | 로컬 Semgrep 검사로 코드의 보안 패턴과 규칙 위반을 찾아 분석한다. | [설치 및 사용법](https://github.com/semgrep/semgrep/tree/develop/cli/src/semgrep/mcp) |
+| **REA** | 소스가 없는 앱·Electron 패키지·바이너리의 동작을 확인해야 하고, 실행 관찰과 일반 파일 분석만으로 구현 단서를 찾기 어려울 때 | 앱의 구성과 실행 동작을 조사해 근거가 있는 구현 단서를 찾는다. 설치 시 MCP와 작업 지침이 함께 등록된다. | [설치 및 사용법](https://github.com/morluto/rea) |

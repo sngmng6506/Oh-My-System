@@ -10,5 +10,6 @@
 | [DEVELOPMENT_PRINCIPLES.md](DEVELOPMENT_PRINCIPLES.md) | 구현, 검증, 기록에 관한 공통 원칙 |
 | [DESIGN_PRINCIPLES.md](DESIGN_PRINCIPLES.md) | 화면 구성과 디자인 시스템 문서화에 관한 원칙 |
 | [API_PRINCIPLES.md](API_PRINCIPLES.md) | API 계약, 오류 처리, 명세 관리에 관한 원칙 |
+| [MCP.md](MCP.md) | 필요할 때 연결할 MCP 목록 |
 
-도구 목록은 실제 사례를 정리하면서 하나씩 추가한다. 새 문서를 만들면 이 표에 연결한다.
+새 문서는 실제 필요가 생길 때 추가하고 이 표에 연결한다.

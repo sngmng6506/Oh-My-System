@@ -5,16 +5,16 @@
 
 ## 문서
 
-| 문서 | 내용 |
+| 문서 | 확인할 작업 |
 | --- | --- |
-| [DEVELOPMENT_PRINCIPLES.md](DEVELOPMENT_PRINCIPLES.md) | 구현, 코드 품질, 검증, 기록에 관한 공통 원칙 |
-| [DESIGN_PRINCIPLES.md](DESIGN_PRINCIPLES.md) | 화면 구성과 디자인 시스템 문서화에 관한 원칙 |
-| [API_PRINCIPLES.md](API_PRINCIPLES.md) | API 계약, 오류 처리, 명세 관리에 관한 원칙 |
-| [SECURITY_PRINCIPLES.md](SECURITY_PRINCIPLES.md) | 비밀값, 입력 검증, 권한, 암호화, 개인정보, 의존성에 관한 원칙 |
-| [GIT_PRINCIPLES.md](GIT_PRINCIPLES.md) | 커밋, 브랜치, PR, 이력 관리에 관한 원칙 |
-| [DEPLOY_PRINCIPLES.md](DEPLOY_PRINCIPLES.md) | 배포 자동화, 되돌리기, 데이터 호환, 장애 대응에 관한 원칙 |
-| [MCP.md](MCP.md) | 필요할 때 연결할 MCP 목록 |
-| [SKILLS.md](SKILLS.md) | 필요할 때 설치할 스킬 목록과 설치 명령 |
+| [DEVELOPMENT_PRINCIPLES.md](DEVELOPMENT_PRINCIPLES.md) | 기능 구현, 버그 수정, 리팩터링 |
+| [DESIGN_PRINCIPLES.md](DESIGN_PRINCIPLES.md) | 화면·문구 변경 |
+| [API_PRINCIPLES.md](API_PRINCIPLES.md) | API 계약 변경 |
+| [SECURITY_PRINCIPLES.md](SECURITY_PRINCIPLES.md) | 인증·권한, 입력 처리, 비밀값, 개인정보, 의존성 변경 |
+| [GIT_PRINCIPLES.md](GIT_PRINCIPLES.md) | 커밋, 브랜치, PR |
+| [DEPLOY_PRINCIPLES.md](DEPLOY_PRINCIPLES.md) | 빌드·배포·운영 변경 |
+| [MCP.md](MCP.md) | 기본 도구로 하기 어려워 MCP 연결을 검토할 때 |
+| [SKILLS.md](SKILLS.md) | 기본 도구로 하기 어려워 스킬 설치를 검토할 때 |
 
 
 ## 프로젝트에 적용하기

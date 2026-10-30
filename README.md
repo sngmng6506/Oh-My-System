@@ -11,6 +11,7 @@
 | [DESIGN_PRINCIPLES.md](DESIGN_PRINCIPLES.md) | 화면 구성과 디자인 시스템 문서화에 관한 원칙 |
 | [API_PRINCIPLES.md](API_PRINCIPLES.md) | API 계약, 오류 처리, 명세 관리에 관한 원칙 |
 | [SECURITY_PRINCIPLES.md](SECURITY_PRINCIPLES.md) | 비밀값, 입력 검증, 권한, 암호화, 개인정보, 의존성에 관한 원칙 |
+| [GIT_PRINCIPLES.md](GIT_PRINCIPLES.md) | 커밋, 브랜치, PR, 이력 관리에 관한 원칙 |
 | [MCP.md](MCP.md) | 필요할 때 연결할 MCP 목록 |
 | [SKILLS.md](SKILLS.md) | 필요할 때 설치할 스킬 목록과 설치 명령 |
 

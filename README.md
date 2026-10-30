@@ -12,7 +12,7 @@
 | [API_PRINCIPLES.md](API_PRINCIPLES.md) | API 계약, 오류 처리, 명세 관리에 관한 원칙 |
 | [SECURITY_PRINCIPLES.md](SECURITY_PRINCIPLES.md) | 비밀값, 입력 검증, 권한, 암호화, 개인정보, 의존성에 관한 원칙 |
 | [GIT_PRINCIPLES.md](GIT_PRINCIPLES.md) | 커밋, 브랜치, PR, 이력 관리에 관한 원칙 |
-| [DEPLOY_PRINCIPLES.md](DEPLOY_PRINCIPLES.md) | 배포 자동화, 검증, 되돌리기, 호환성, 장애 감지에 관한 원칙 |
+| [DEPLOY_PRINCIPLES.md](DEPLOY_PRINCIPLES.md) | 배포 자동화, 되돌리기, 데이터 호환, 장애 대응에 관한 원칙 |
 | [MCP.md](MCP.md) | 필요할 때 연결할 MCP 목록 |
 | [SKILLS.md](SKILLS.md) | 필요할 때 설치할 스킬 목록과 설치 명령 |
 

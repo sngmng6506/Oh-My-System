@@ -7,6 +7,7 @@
 - API 계약 변경: [API 원칙](https://github.com/sngmng6506/Oh-My-System/blob/main/API_PRINCIPLES.md)과 프로젝트의 API 명세가 있으면 함께 확인한다.
 - 인증·권한·입력 처리·비밀값·암호화·개인정보·의존성 변경: [보안 원칙](https://github.com/sngmng6506/Oh-My-System/blob/main/SECURITY_PRINCIPLES.md)을 확인한다.
 - 커밋·브랜치·PR 작업: [Git·협업 원칙](https://github.com/sngmng6506/Oh-My-System/blob/main/GIT_PRINCIPLES.md)을 확인한다.
+- 빌드·배포·운영 변경: [배포·운영 원칙](https://github.com/sngmng6506/Oh-My-System/blob/main/DEPLOY_PRINCIPLES.md)과 프로젝트의 배포 문서가 있으면 함께 확인한다.
 - 기본 도구로 작업하기 어려운 경우에만 [MCP 목록](https://github.com/sngmng6506/Oh-My-System/blob/main/MCP.md) 또는 [Skill 목록](https://github.com/sngmng6506/Oh-My-System/blob/main/SKILLS.md)의 사용 전제를 확인한다. 새 MCP 설치 전에는 용도와 접근 범위를 알리고 사용자의 확인을 받는다. 사용자가 직접 설치를 요청했다면 다시 묻지 않는다.
 
 위 링크는 문서를 자동으로 불러오지 않는다. 관련 작업을 시작할 때 해당 문서를 실제로 열어 확인한다.

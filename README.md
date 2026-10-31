@@ -8,6 +8,7 @@
 | 문서 | 확인할 작업 |
 | --- | --- |
 | [DEVELOPMENT_PRINCIPLES.md](DEVELOPMENT_PRINCIPLES.md) | 기능 구현, 버그 수정, 리팩터링 |
+| [ARCHITECTURE_PRINCIPLES.md](ARCHITECTURE_PRINCIPLES.md) | 구조·의존성·설계 변경 |
 | [DESIGN_PRINCIPLES.md](DESIGN_PRINCIPLES.md) | 화면·문구 변경 |
 | [API_PRINCIPLES.md](API_PRINCIPLES.md) | API 계약 변경 |
 | [SECURITY_PRINCIPLES.md](SECURITY_PRINCIPLES.md) | 인증·권한, 입력 처리, 비밀값, 개인정보, 의존성 변경 |

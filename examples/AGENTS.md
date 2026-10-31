@@ -3,6 +3,7 @@
 이 프로젝트에는 [Oh-My-System](https://github.com/sngmng6506/Oh-My-System)의 원칙을 적용한다. 작업과 관련된 문서만 확인한다. 프로젝트 고유의 정책·명세가 있으면 함께 확인하고, 이 원칙과 다르면 프로젝트 문서를 따른다.
 
 - 기능 구현·버그 수정·리팩터링: [개발 작업 원칙](https://github.com/sngmng6506/Oh-My-System/blob/main/DEVELOPMENT_PRINCIPLES.md)을 확인한다.
+- 구조·의존성·설계 변경: [아키텍처 원칙](https://github.com/sngmng6506/Oh-My-System/blob/main/ARCHITECTURE_PRINCIPLES.md)과 프로젝트의 `ARCHITECTURE.md`·관련 ADR을 확인한다.
 - 화면·문구 변경: [디자인 원칙](https://github.com/sngmng6506/Oh-My-System/blob/main/DESIGN_PRINCIPLES.md)과 프로젝트의 `DESIGN_SYSTEM.md`가 있으면 함께 확인한다.
 - API 계약 변경: [API 원칙](https://github.com/sngmng6506/Oh-My-System/blob/main/API_PRINCIPLES.md)과 프로젝트의 API 명세가 있으면 함께 확인한다.
 - 인증·권한·입력 처리·비밀값·암호화·개인정보·의존성 변경: [보안 원칙](https://github.com/sngmng6506/Oh-My-System/blob/main/SECURITY_PRINCIPLES.md)을 확인한다.
